@@ -42,6 +42,7 @@ sudo python3 setup.py install
 ```
 
 **Testing PlutoSDR Drivers**
+
 *Open a new terminal (in your VM) and type the following commands:*
 ```
 python3
