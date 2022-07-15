@@ -1,2 +1,2 @@
 # AdalmPluto
-transferring data from a file to adam pluto
+transferring data from a file to adalm pluto
